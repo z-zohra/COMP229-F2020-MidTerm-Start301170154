@@ -1,3 +1,9 @@
+/*
+File name: app.js
+ Author's name: Zohra, 
+ StudentID: 301170154, and 
+ Web App name: Favourite Books
+*/
 let app = require('./server/config/app');
 let debug = require('debug')('comp308-w2019-midterm:server');
 let http = require('http');
