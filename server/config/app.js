@@ -1,3 +1,9 @@
+/*
+File name: app.js
+ Author's name: Zohra, 
+ StudentID: 301170154, and 
+ Web App name: Favourite Books
+*/
 // moddules for node and express
 let createError = require('http-errors');
 let express = require('express');

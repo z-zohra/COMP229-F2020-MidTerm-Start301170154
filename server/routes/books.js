@@ -1,5 +1,5 @@
 /*
-File name: app.js
+File name: books.js
  Author's name: Zohra, 
  StudentID: 301170154, and 
  Web App name: Favourite Books
